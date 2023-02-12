@@ -4,7 +4,7 @@
 
 # Here is the sample mean:
 #  $$
-#  y = {\frac{1}{2}}{\sum\limits_{i=1}^n}{y_1}$$
+#  {\bar{y}} = {\frac{1}{n}}{\sum\limits_{i=1}^n}{y_i}$$
 #         
 # Here is the sample variance:
 # $$ 
